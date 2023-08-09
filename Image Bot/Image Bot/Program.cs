@@ -22,7 +22,12 @@ class Program
             .AddSingleton(commands)
             .BuildServiceProvider();
 
-        string token = "MTAxMTY3NDYwMzMxNzM3OTE3OA.GVOFok.ALhJ-OXlRGLbcrPxoaOWLBgaLEmK0v84X-6YOk";
+        string token = "";
+
+        using(StreamReader reader = new StreamReader("botToken.txt"))
+        {
+            token = reader.ReadLine();
+        }
 
         client.Log += Client_Log;
 

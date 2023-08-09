@@ -58,3 +58,33 @@ E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\refint\Image Bot.dll
 E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.pdb
 E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.genruntimeconfig.cache
 E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\ref\Image Bot.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.exe
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.deps.json
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.runtimeconfig.json
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.pdb
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Commands.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Core.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Rest.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\GScraper.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\System.Interactive.Async.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\System.Linq.Async.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\bin\Debug\net6.0\System.Reactive.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.AssemblyReference.cache
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.AssemblyInfoInputs.cache
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.AssemblyInfo.cs
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.CoreCompileInputs.cache
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.CopyComplete
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\refint\Image Bot.dll
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.pdb
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.genruntimeconfig.cache
+D:\jackt\Documents\Discord-Image-Bot\Image Bot\Image Bot\obj\Debug\net6.0\ref\Image Bot.dll
