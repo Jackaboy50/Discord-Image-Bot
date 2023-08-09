@@ -1,0 +1,60 @@
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.exe
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.deps.json
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.runtimeconfig.json
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.pdb
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.AssemblyReference.cache
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.AssemblyInfoInputs.cache
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.AssemblyInfo.cs
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.CoreCompileInputs.cache
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.CopyComplete
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\refint\Image Bot.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.pdb
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.genruntimeconfig.cache
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\obj\Debug\net6.0\ref\Image Bot.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\GScraper.dll
+C:\Users\Spruc\source\repos\Image Bot\Image Bot\bin\Debug\net6.0\HtmlAgilityPack.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.exe
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.deps.json
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.runtimeconfig.json
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Image Bot.pdb
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Commands.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Core.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Rest.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\GScraper.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\HtmlAgilityPack.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\System.Interactive.Async.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\System.Linq.Async.dll
+E:\repos\Image Bot\Image Bot\bin\Debug\net6.0\System.Reactive.dll
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.AssemblyReference.cache
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.AssemblyInfoInputs.cache
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.AssemblyInfo.cs
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.CoreCompileInputs.cache
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.csproj.CopyComplete
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.dll
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\refint\Image Bot.dll
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.pdb
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\Image Bot.genruntimeconfig.cache
+E:\repos\Image Bot\Image Bot\obj\Debug\net6.0\ref\Image Bot.dll
